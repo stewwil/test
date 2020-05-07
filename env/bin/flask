@@ -1,4 +1,4 @@
-#!/Users/williamstewart/dev/projects/test/env/bin/python
+#!/Users/williamstewart/dev/projects/test/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
